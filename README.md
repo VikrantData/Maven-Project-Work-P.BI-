@@ -1,6 +1,6 @@
 Hello everyone,
 
-I am excited to share with you my project on Cycling Manfacturing Company data analysis! As part of my internship with Udemy, I had the opportunity to work on this project and gain valuable insights into analyzing sales data.
+I am excited to share with you my project on Cycling Manfacturing Company data analysis! As part of my internship, I had the opportunity to work on this project and gain valuable insights into analyzing sales data.
 
 In this project, I used different excell file to extract the data and used power query to match the different requirement and create and used measures to fullfill the meaningfull actionable requirements and created visualizations by using Power B.I 
 to better understand trends and patterns.
